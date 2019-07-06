@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">crud_json</string>
+    <string name="lbl_name">Nombre:</string>
+    <string name="lbl_position">Puesto:</string>
+    <string name="lbl_salary">Salario:</string>
+    <string name="lbl_save">Guardar</string>
+    <string name="lbl_view">Ver</string>
+    <string name="lbl_id">ID:</string>
+    <string name="lbl_edit">Editar</string>
+    <string name="lbl_delete">Eliminar</string>
+</resources>
